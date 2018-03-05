@@ -19,7 +19,10 @@ Install dependencies
 yarn install
 ```
 
-Set new API keys in src/firebase/firebase.js
+Set new API keys
+```
+src/firebase/firebase.js
+```
 
 Start Webpack dev server
 ```

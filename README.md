@@ -52,7 +52,7 @@ yarn test
 * Firebase
 * Jest
 * Webpack
-* And others
+* And more
 
 ## Author
 

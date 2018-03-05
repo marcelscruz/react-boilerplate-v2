@@ -35,15 +35,12 @@ yarn test
 ## Ready to be used with
 
 * React
-* React Router
 * Redux
-* Redux-thunk
 * Sass
 * Babel
 * Express.js
 * Firebase
 * Jest
-* Expect.js
 * Webpack
 * And others
 

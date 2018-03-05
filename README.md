@@ -19,9 +19,14 @@ Install dependencies
 yarn install
 ```
 
-Set new API keys
+Create .env.development and .env.test files in the root directory for the Firebase keys
 ```
-src/firebase/firebase.js
+FIREBASE_API_KEY=newKey
+FIREBASE_AUTH_DOMAIN=newKey
+FIREBASE_DATABASE_URL=newKey
+FIREBASE_PROJECT_ID=newKey
+FIREBASE_STORAGE_BUCKET=newKey
+FIREBASE_MESSAGING_SENDER_ID=newKey
 ```
 
 Start Webpack dev server
